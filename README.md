@@ -8,34 +8,43 @@
   😎😎😎A Hacktoberfest-2020 contribution repo for beginners😎😎😎
 </h2>
 </br>
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/pattern) repo which will be counted as your first PR. 🎯
-</br>
+
+
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) repo which will be counted as your first PR. 🎯 </br>
 ## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the `pattern` folder in your code editor of your choice.
-2. 🎯Make any design pattern you like using any programming language. 
-3. 🎯Save your changes and give its name by your github username.
-4. 🎯Now add your profile details in `contributers` folder (Name, GitHub Username and College Name)
-5. 🎯Done! Ready to create your pull request?
+1. 🎯Open the `pattern` folder in your code editor of your choice. </br>
+2. 🎯Make any design pattern you like using any programming language. </br>
+3. 🎯Save your changes and give its name by your github username.</br>
+4. 🎯Now add your profile details in `contributers` folder (Name, GitHub Username and College Name)</br>
+5. 🎯Done! Ready to create your pull request?</br>
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="./src/hacktober.png" />
  Open source is changing the world - one pull request at a time.
 🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2020 challenge and earn a limited edition T-shirt.
 </br>
+
 ```
 🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
 ```
+
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
+
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2020
 ###### Link to register: https://hacktoberfest.digitalocean.com/
+
+
 ### 2. 👇🏻Getting Started
 ###### See more details at: https://hacktoberfest.netlify.com/
-
 ###### Go to our repo by clicking here -  https://github.com/aritraroy24/HACKTOBERFEST2020_pattern
+
+
 ### 3. 👇🏻Star and Fork this Repository
 ###### ⚡  You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 ###### ⚡  GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name.
 ###### ⚡  When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
+
+
 ### 4. 👇🏻Clone the Repository
 ###### ⚡  To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
 ###### ⚡  We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
@@ -44,6 +53,8 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 ###### ⚡  You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL.
 ###### ⚡  Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 `git clone https://github.com/aritraroy24/HACKTOBERFEST2020_pattern`
+
+
 ### 5. 👇🏻Create a New Branch
 ####
 #### ***`Input`***:
