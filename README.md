@@ -12,10 +12,10 @@
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) repo which will be counted as your first PR. 🎯 </br>
 ## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the `pattern` folder in your code editor of your choice. </br>
+1. 🎯Open the `[pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern)` folder in your code editor of your choice. </br>
 2. 🎯Make any design pattern you like using any programming language. </br>
 3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Now add your profile details in `contributers` folder (Name, GitHub Username and College Name)</br>
+4. 🎯Now add your profile details in `[contributers](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/contributers)` folder (Name, GitHub Username and Institution)</br>
 5. 🎯Done! Ready to create your pull request?</br>
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="./src/hacktober.png" />
@@ -65,11 +65,11 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 #### ***`Output`***:
 ###### ⚡  Once you enter the git `checkout` command, you will receive the following output:`Switched to branch '<YOUR-USERNAME>' `
 ###### ⚡  At this point, you can now modify existing files or add new files to the project on your own branch.
-###### ⚡  Make sure you have read the CONTRIBUTING.md before you start contributing such that you make remarkable and easily acceptable PRs.
+###### ⚡  Make sure you have read the [CONTRIBUTING.md](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/blob/master/CONTRIBUTING.md) before you start contributing such that you make remarkable and easily acceptable PRs.
 ###### ⚡  Make Changes Locally. 
 ###### ⚡  Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made : `git add -A ` or ` git add . `
 ###### ⚡  Next, we’ll want to record the changes that we made to the repository with the git commit command.
-###### ⚡  The commit message is an important aspect of your code contribution; It helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the `contributing.md `.
+###### ⚡  The commit message is an important aspect of your code contribution; It helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the `CONTRIBUTING.md `.
 ###### ⚡  Now, you can record that with the -m flag and the message in quotes:
 ###### *`Example:`*
 ###### ` git commit -m "Updated Readme.md" `
