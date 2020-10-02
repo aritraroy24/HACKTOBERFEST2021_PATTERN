@@ -8,8 +8,9 @@
   😎😎😎A Hacktoberfest-2020 contribution repo for beginners😎😎😎
 </h2>
 </br>
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) repo which will be counted as your first PR. 🎯
-</br>
+
+
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) repo which will be counted as your first PR. 🎯 </br>
 ## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
 1. 🎯Open the `pattern` folder in your code editor of your choice. </br>
 2. 🎯Make any design pattern you like using any programming language. </br>
