@@ -1,8 +1,6 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2020_pattern"></a>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2020_pattern"></a>
 ![GitHub issues](https://img.shields.io/github/issues/aritraroy24/-HACKTOBERFEST2020_pattern-?logo=github)
-[![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/swag-for-dev.svg)](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/pulls?q=is%3Apr+is%3Aclosed)
-[![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern)
 ![Author](https://img.shields.io/badge/author-aritraroy24-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
