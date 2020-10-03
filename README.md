@@ -108,7 +108,8 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-any_language.svg)](https://hacktoberfest.netlify.com/)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 ## 👬 Owner
