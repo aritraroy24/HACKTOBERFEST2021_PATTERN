@@ -11,12 +11,14 @@
 
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) repo which will be counted as your first PR. 🎯 </br>
-## Just 5 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
+## Just 7 simple steps to earning your t-shirt for Hacktoberfest 2020 🧑🏻‍🤝‍🧑🏻
 1. 🎯Open the [pattern](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern) folder in your code editor of your choice. </br>
 2. 🎯Make any design pattern you like using any programming language. </br>
 3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Now add your profile details in [contributers](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/contributers) folder (Name, GitHub Username and Institution)</br>
-5. 🎯Done! Ready to create your pull request?</br>
+4. 🎯Upload the screenshot of your pattern in [pattern_screenshot](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern_screenshot) and give its name by your github username.</br>
+5. 🎯Upload your photo in [photo](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/photo) folder and give its name by your github username.</br>
+6. 🎯Now add your profile details in [contributers](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/contributers) folder (Name, GitHub Username, Institution, Photo Title [In GitHub Username] and Screenshot Title [In GitHub Username])</br>
+7. 🎯Done! You are ready to create your pull request.</br>
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="./src/hacktober.png" />
  Open source is changing the world - one pull request at a time.
@@ -76,17 +78,25 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 ###### ⚡  At this point you can use the git push command to push the changes to the current branch of your forked repository:
 ###### *` Example:`*
 ###### ` git push --set-upstream origin new-branch `
+
+
 ### 6. 👇🏻Update Local Repository
 ###### ⚡  While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes.
 ###### ⚡  We’ll first go over configuring a remote for the fork, then syncing the fork.
+
+
 ### 7. 👇🏻Configure a Remote for the Fork
 ###### ⚡  Next, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command : `git remote add upstream https://github.com/aritraroy24/HACKTOBERFEST2020_pattern`
 ###### ⚡ In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
+
+
 ### 8. 👇🏻Sync the Fork
 ###### ⚡ Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
 ###### ⚡ To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the // git fetch // command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command : `git fetch upstream `
 ###### ⚡ Switch to the local master branch of our repository : `git checkout master `
 ###### ⚡ Now merge any changes that were made in the original repository’s master branch, that you will access through your local upstream/master branch, with your local master branch : ` git merge upstream/master `
+
+
 ### 9. 👇🏻Create Pull Request
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
