@@ -113,7 +113,7 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 ## 👬 Owner
 
-<a href="https://github.com/aritraroy24"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a>
+<a href="https://github.com/aritraroy24"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><br /><sub><b>Aritra Roy</b></sub></a>
 </br>
 👩‍🎓 Junior | 💻 Aspiring Web Developer |  Open-Source Mentor 💜 |
 
