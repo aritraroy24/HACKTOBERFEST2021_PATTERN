@@ -1,8 +1,12 @@
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2020_pattern"></a>
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2020_pattern"></a>
+![GitHub issues](https://img.shields.io/github/issues/aritraroy24/-HACKTOBERFEST2020_pattern-?logo=github)
+[![closed pull requests](https://img.shields.io/github/issues-pr-closed/swapagarwal/swag-for-dev.svg)](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/pulls?q=is%3Apr+is%3Aclosed)
+[![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern)
 ![Author](https://img.shields.io/badge/author-aritraroy24-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
-![GitHub issues](https://img.shields.io/github/issues/aritraroy24/-HACKTOBERFEST2020_pattern-?logo=github)
 <img src="./src/pattern_example.png" />
 <h2 align="center">
   😎😎😎A Hacktoberfest-2020 contribution repo for beginners😎😎😎
@@ -106,9 +110,7 @@ https://github.com/aritraroy24/HACKTOBERFEST2020_pattern.git
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://hacktoberfest.netlify.com/)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://hacktoberfest.netlify.com/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-any_language.svg)](https://hacktoberfest.netlify.com/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.netlify.com/)&nbsp;
 ## 👬 Owner
