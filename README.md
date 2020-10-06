@@ -17,7 +17,7 @@
 3. 🎯Save your changes and give its name by your github username.</br>
 4. 🎯Upload the screenshot of your pattern in [pattern_screenshot](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/pattern_screenshot) and give its name by your github username.</br>
 5. 🎯Upload your photo in [photo](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/photo) folder and give its name by your github username.</br>
-6. 🎯Now add your profile details in [contributers](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/contributers) folder (Name, GitHub Username, Institution, Photo Title [In GitHub Username] and Screenshot Title [In GitHub Username])</br>
+6. 🎯Now add your profile details in [contributors](https://github.com/aritraroy24/HACKTOBERFEST2020_pattern/tree/master/contributers) folder (Name, GitHub Username, Institution, Photo Title [In GitHub Username] and Screenshot Title [In GitHub Username])</br>
 7. 🎯Done! You are ready to create your pull request.</br>
 ## Contributing to Hacktoberfest 2020 👨🏼‍💻
  <img src="./src/hacktober.png" />
