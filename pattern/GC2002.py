@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Enter the no. of rows:" ))
 n1 = (n+1)//2
 n2 = n-n1
 
