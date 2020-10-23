@@ -3,24 +3,20 @@ print("Inverted Half Pyramid:")
 for i in range(7):
     print(" " * i, "*" * (6 - i))
 
-
 print("Half Pyramid:")
 
 for i in range(7):
     print(" " * (6 - i), "*" * i)
-
 
 print("\n\nInverted Full Pyramid:\n\n")
 
 for i in range(7):
     print(" " * i, "* " * (6 - i))
 
-
 print("Full Pyramid:")
 
 for i in range(7):
     print(" " * (6 - i), "* " * i)
-
 
 print("Hollow Full Pyramid:")
 
@@ -34,7 +30,6 @@ for i in range(6):
         else:
             print(" ", end="")
     print()  # printing new line
-
 
 print("Hollow Full Inverted Pyramid:")
 
