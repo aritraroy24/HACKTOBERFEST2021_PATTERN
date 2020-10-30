@@ -12,15 +12,15 @@ int Fib(int n)
     }
 }
 
-int main(){
+int main() {
     int n,j=0;
     cout << "Enter the total number of terms:";
     cin >> n;
 
     for(int i=1; i<=n; i++)
     {
-            int r = Fib(j);
-            cout << r << " ";
-            j++;
+        int r = Fib(j);
+        cout << r << " ";
+        j++;
     }
 }
