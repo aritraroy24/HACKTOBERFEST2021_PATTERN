@@ -12,13 +12,13 @@
 </br>
 
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Pattern](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/pattern) folder which will be counted as your first PR. 🎯 </br>
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Pattern](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
 ## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the [Pattern](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/pattern) folder in your code editor of your choice. </br>
+1. 🎯Open the [Pattern](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
 2. 🎯Make any design pattern you like using any programming language. </br>
 3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShot](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShot) folder and give its name by your github username.</br>
-5. 🎯Upload your photo in [Photo](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photo) folder and give its name by your github username.</br>
+4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShot](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
+5. 🎯Upload your photo in [Photo](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
 6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
 7. 🎯Done! You are ready to create your pull request.</br>
 
