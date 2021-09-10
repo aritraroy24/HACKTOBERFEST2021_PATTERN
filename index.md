@@ -1,3 +1,13 @@
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github&style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
+[![GitHub issues](https://img.shields.io/github/issues/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/issues)
+[![GitHub stars](https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/stargazers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
+[![GitHub forks](https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social&logo=git)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/network/)
+![Author](https://img.shields.io/badge/Owner-aritraroy24-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Visual%20Studio%20Code-blue)
+![Maintained](https://img.shields.io/maintenance/yes/2021) 
+
 <p align="center"><img src="https://i1.faceprep.in/fp/articles/img/46684_1580817324.png" /> </p>
 <h2 align="center">
   😎😎😎Hacktoberfest-2021 contribution Repo for Beginners😎😎😎
@@ -114,9 +124,10 @@
 
 ## 👬 Owner
 
-<a href="https://aritraroy.netlify.app/"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><sub><b>Aritra Roy</b></sub></a>
+<img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/>
+<a href="https://aritraroy.netlify.app/"><b>Aritra Roy</b></a>
 
-👨🏼‍💻 Intermediate | 👩‍🎓 M.Sc. Chemistry | :computer: Theoretical Computational Chemist | 💜Open-Source Mentor |
+👨🏼‍💻 Intermediate | 👩‍🎓 M.Sc. Chemistry: Theoretical Computational Chemist | 💜Open-Source Mentor |
 
 
 ## 🙅🏼‍♂️ License 🗣
