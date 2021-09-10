@@ -2,32 +2,31 @@
 <h2 align="center">
   😎😎😎Hacktoberfest-2021 contribution Repo for Beginners😎😎😎
 </h2>
-</br>
 
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 
 ## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
-2. 🎯Make any design pattern you like using any programming language. </br>
-3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
-5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
-6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
-7. 🎯Done! You are ready to create your pull request.</br>
+1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. 
+2. 🎯Make any design pattern you like using any programming language. 
+3. 🎯Save your changes and give its name by your github username.
+4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.
+5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.
+6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).
+7. 🎯Done! You are ready to create your pull request.
 
-💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
+💥💥💥 ```Some Have Been Done For You As An Example``` 
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
  
 *	```No Missing Details```
 *	```Different Pattern or Same Pattern in Different Language```
 *	```Follow aritraroy24```
-*	```Star & Fork the Repository```</br>
+*	```Star & Fork the Repository```
 
 ## Contributing to Hacktoberfest 2021 👨🏼‍💻
 <img src="https://hacktoberfest.digitalocean.com/twitter-card.png" />
  Open source is changing the world - one pull request at a time.
 🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
-</br>
+
 
 ```
 🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
@@ -36,6 +35,7 @@
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
+
 ### 1. 👇🏻Register yourself for Hacktoberfest 2021
 ###### Link to register: [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
@@ -62,12 +62,10 @@
 
 
 ### 5. 👇🏻Create a New Branch
-####
 #### ***`Input`***:
 ###### ⚡ To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. HACKTOBERFEST2021_PATTERN). To change into that directory use: `cd HACKTOBERFEST2021_PATTERN`
 ###### ⚡  Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on : `git branch <YOUR-USERNAME>`
 ###### ⚡  Now that our new branch is created, we can switch to make sure that we are working on that branch by using the git checkout command : `git checkout <YOUR-USERNAME> `
-####
 #### ***`Output`***:
 ###### ⚡  Once you enter the git `checkout` command, you will receive the following output:`Switched to branch '<YOUR-USERNAME>' `
 ###### ⚡  At this point, you can now modify existing files or add new files to the project on your own branch.
@@ -116,9 +114,10 @@
 
 ## 👬 Owner
 
-<a href="https://github.com/aritraroy24"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><br /><sub><b>Aritra Roy</b></sub></a>
-</br>
+<a href="https://aritraroy.netlify.app/"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><sub><b>Aritra Roy</b></sub></a>
+
 👨🏼‍💻 Intermediate | 👩‍🎓 M.Sc. Chemistry | :computer: Theoretical Computational Chemist | 💜Open-Source Mentor |
+
 
 ## 🙅🏼‍♂️ License 🗣
 The MIT License (MIT)
