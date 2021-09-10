@@ -163,4 +163,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------
-<p align="center"><h1>😎🙏 Thanks to Our Awesome Contributors 🙏😎</h1></p>
+<h1 align="center">😎🙏 Thanks to Our Awesome Contributors 🙏😎</h1>
