@@ -1,6 +1,8 @@
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2021_PATTERN"></a>
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2021_PATTERN"></a>
-![GitHub Issues](https://img.shields.io/github/issues/aritraroy24/-HACKTOBERFEST2021_PATTERN-?logo=github)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github&style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
+[![GitHub issues](https://img.shields.io/github/issues/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/issues)
+[![GitHub stars](https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/stargazers)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
+[![GitHub forks](https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social&logo=git)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/network/)
 ![Author](https://img.shields.io/badge/Owner-aritraroy24-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Visual%20Studio%20Code-blue)
@@ -19,7 +21,7 @@
 3. 🎯Save your changes and give its name by your github username.</br>
 4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
 5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
-6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
+6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
 7. 🎯Done! You are ready to create your pull request.</br>
 
 💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
