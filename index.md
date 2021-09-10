@@ -135,7 +135,7 @@
 
 * 👨🏼‍💻 Intermediate
 * 👩‍🎓 M.Sc. Chemistry: Theoretical Computational Chemist
-* 💜Open-Source Mentor
+* 💜 Open-Source Mentor
 
 -------------------
 
