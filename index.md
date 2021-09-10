@@ -125,9 +125,12 @@
 ## 👬 Owner
 
 <img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/>
+
 <a href="https://aritraroy.netlify.app/"><b>Aritra Roy</b></a>
 
-👨🏼‍💻 Intermediate | 👩‍🎓 M.Sc. Chemistry: Theoretical Computational Chemist | 💜Open-Source Mentor |
+* 👨🏼‍💻 Intermediate
+* 👩‍🎓 M.Sc. Chemistry: Theoretical Computational Chemist
+* 💜Open-Source Mentor |
 
 
 ## 🙅🏼‍♂️ License 🗣
