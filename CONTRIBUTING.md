@@ -1,4 +1,4 @@
-# Contributing to HACKTOBERFEST2020_pattern
+# Contributing to HACKTOBERFEST2021_PATTERN
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
