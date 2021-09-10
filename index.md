@@ -32,6 +32,8 @@
 *	```Follow aritraroy24```
 *	```Star & Fork the Repository```
 
+----------------
+
 ## Contributing to Hacktoberfest 2021 👨🏼‍💻
 <img src="https://hacktoberfest.digitalocean.com/twitter-card.png" />
  Open source is changing the world - one pull request at a time.
@@ -112,6 +114,9 @@
 ### 9. 👇🏻Create Pull Request
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
+
+------------
+
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 ## Happy?? Star ⭐ this Repo. 🤩
 ## 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
@@ -130,8 +135,9 @@
 
 * 👨🏼‍💻 Intermediate
 * 👩‍🎓 M.Sc. Chemistry: Theoretical Computational Chemist
-* 💜Open-Source Mentor |
+* 💜Open-Source Mentor
 
+-------------------
 
 ## 🙅🏼‍♂️ License 🗣
 The MIT License (MIT)
