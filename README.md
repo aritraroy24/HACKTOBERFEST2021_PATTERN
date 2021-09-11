@@ -29,7 +29,7 @@
  
 *	```No Missing Details```
 *	```Different Pattern or Same Pattern in Different Language```
-*	```Follow aritraroy24```
+*	[```Follow @aritraroy24```](https://github.com/aritraroy24/)
 *	```Star & Fork the Repository```</br>
 
 ## Contributing to Hacktoberfest 2021 👨🏼‍💻
