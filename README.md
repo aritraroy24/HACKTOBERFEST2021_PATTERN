@@ -25,6 +25,17 @@
 7. 🎯Done! You are ready to create your pull request.</br>
 
 💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
+--------
+<p align="center"><h2>✔✔ What You Need to Do for Multiple PRs ✔✔</h2></p>
+
+*	Add any design pattern and screenshot of your pattern respectively in [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) and [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder like previous PR
+*	Give the above files **any name you like**.
+*	No need to add your photo
+*	In the [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file add details like below: </br>
+**|&nbsp;&nbsp; |&nbsp;&nbsp; |&nbsp;&nbsp; |&nbsp;&nbsp; | your pattern filename | screenshot path |&nbsp;&nbsp; |&nbsp;&nbsp; |**
+
+----
+------
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
  
 *	```No Missing Details```
@@ -114,7 +125,7 @@
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
-## Happy?? Star ⭐ this Repo. 🤩
+## Happy??? Star ⭐ this Repo. 🤩
 ## 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">hacktoberfest.digitalocean.com/profile</a>
 
@@ -152,4 +163,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# 😎🙏 Thanks to Our Awesome Contributors 🙏😎
+# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) 🙏😎
