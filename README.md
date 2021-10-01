@@ -14,7 +14,7 @@
 </br>
 
 
-🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns]...(https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
 ## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
 1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
 2. 🎯Make any design pattern you like using any programming language. </br>
