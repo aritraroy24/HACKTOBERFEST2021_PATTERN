@@ -1,4 +1,4 @@
-//Typescript version for 'aortiz24.py'
+//javacript version for 'aortiz24.py'
 var size = 7;
 var m = 0;
 var i = 0;
