@@ -22,7 +22,7 @@
 4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
 5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
 6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
-7. 🎯Done! You are ready to create your pull request.</br>
+7. 🎯Done! You are ready to create your pull request. **But be sure to fetch the repo before sending the PR to escape from any conflict.**</br>
 
 💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
 --------
