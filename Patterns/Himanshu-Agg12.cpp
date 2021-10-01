@@ -5,12 +5,12 @@ using namespace std;
 void printPattern(int n){
 
     int start = 1;
- 
+    int row,col
     //Number of rows in pattern 
-    for (int row = 0; row < n; row++) {
+    for ( row = 0; row < n; row++) {
  
         //Number of columns in pattern
-        for (int col = 0; col <= row; col++) {
+        for (col = 0; col <= row; col++) {
             // Print the number pattern of the current row.
             cout << start << " ";
             // Increasing column count
