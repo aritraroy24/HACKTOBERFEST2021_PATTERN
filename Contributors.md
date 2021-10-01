@@ -25,3 +25,4 @@
 |22	     |Sreeja B.               |s-bh                |<img src="./Photos/s-bh.jpg" width="100" />                                  |s-bh.java                         |<img src="./Pattern_ScreenShots/s-bh.png" width="100" />				|IEM
 |     21     |        Aman Upadhyay         |  AmanxUpadhyay  | <img src="./Photos/AmanxUpadhyay.jpg" width="100" />  |  AmanxUpadhyay.c   | <img src="./Pattern_ScreenShots/AmanxUpadhyay.png" width="100" />  |                 Amity University                  |   amanupadhyay0208@gmail.com    |
 |         |            |   |   |  AmanxUpadhyay1.c   | <img src="./Pattern_ScreenShots/AmanxUpadhyay1.png" width="100" />  |                                |    |
+|23            |avyay jain |       avyayjain.cpp|<img src="./Pattern_ScreenShots/avyayjain.png" width="100" />|bmiet|avyay.jain@yahpp.in
