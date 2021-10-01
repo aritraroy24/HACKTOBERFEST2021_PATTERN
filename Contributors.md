@@ -19,6 +19,4 @@
 |          |       |          |                 |casafurix2.c                    |<img src="./Pattern_ScreenShots/casafurix2.png" width="100" />                   |                           |   |
 |17          |Shreya Dayma            |ShreyaDayma-cse    |<img src="./Photos/ShreyaDayma-cse.jpg" width="100" />                       |ShreyaDayma-cse.java              |<img src="./Pattern_ScreenShots/ShreyaDayma-cse.jpg" width="100" />               |Amity University Kolkata                                     |shreyadayma0901@gmail.com         |
 |18          |Kasun Hewagama       |KasunHewagama          |<img src="./Photos/KasunHewagama.jpg" width="100" />                          |KasunHewagama.js                    |<img src="./Pattern_ScreenShots/KasunHewagama.JPG" width="100" />                   |SLIIT - Sri Lanka                                      |kghewagama1997@gmail.com    |
-|19           |Tamal Bag            |tamalbag117     |<img src="./Photos/tamalbag117.jpg" width="100" />                       |tamalbag117.java  
-|<img src="./Pattern_ScreenShots/tamalbag117.png" width="100" />                   |Academy Of Technology, Adisaptagram, India  
-|tamalbag107@gmail.com        |
+|19           |Tamal Bag            |tamalbag117     |<img src="./Photos/tamalbag117.jpg" width="100" />                       |tamalbag117.java <imgsrc="./Pattern_ScreenShots/tamalbag117.png" width="100" />              |Academy Of Technology, Adisaptagram, India  |tamalbag107@gmail.com        |
