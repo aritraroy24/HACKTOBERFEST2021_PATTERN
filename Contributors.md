@@ -21,3 +21,4 @@
 |17          |Shreya Dayma            |ShreyaDayma-cse    |<img src="./Photos/ShreyaDayma-cse.jpg" width="100" />                       |ShreyaDayma-cse.java              |<img src="./Pattern_ScreenShots/ShreyaDayma-cse.jpg" width="100" />               |Amity University Kolkata                                     |shreyadayma0901@gmail.com         |
 |18          |Sanskriti Jain        |sans2001    |<img src="./Photos/sans2001.jpg" width="100" />                       |sans2001.java              |<img src="./Pattern_ScreenShots/Pattern output.jpg" width="100" />               |Guru Gobind Singh Indraprastha University                                  |sanskritijain2001.2001@gmail.com         |
 
+|   |   |   |   |PascalTriangle.py|<img src="./Pattern_ScreenShots/pascal triangle.jpg" width="100" /> |   |   |
