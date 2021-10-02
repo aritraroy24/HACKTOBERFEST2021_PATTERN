@@ -58,3 +58,6 @@
 |51         |Mansi V Jain       |Mansivjain00          |<img src="./Photos/Mansivjain00.jpg" width="100" />                          |Mansivjain00.java                    |<img src="./Pattern_ScreenShots/Mansivjain00.png" width="100" />                   |BMS College Of Engineering, Bangalore , India                                      |mansi.cs20@bmsce.ac.in    |
 |52          |Abhay Kumar       |abhayxkumar          |<img src="./Photos/abhayxkumar.jpg" width="100" />                          |abhayxkumar.java                    |<img src="./Pattern_ScreenShots/abhayxkumar.JPG" width="100" />                   |GLA University - India                                      |singh.abhay1144@gmail.com    |
 |53          | Ayush Tripathi |   ayush-t02   |     <img src="./Photos/ayush-t02.jpeg" width="100" />      |     ayusht02.java      |      <img src="./Pattern_ScreenShots/ayush-t02.jpg" width="100" />      |  Vidyalankar Institute of Technology  |  tripathiayush23@gmail.com  |
+|54          | Aura Cristina salazar | auracristina0693@gmail.com | <img src="./Photos/auracristina0693.PNG" width="100" /> | auracristina.js |  <img src="./Pattern_ScreenShots/auracristina0693.PNG" width="100" /> |  Make it real | auracristina0693@gmial.com  |
+
+
