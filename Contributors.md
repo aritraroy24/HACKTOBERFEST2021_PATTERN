@@ -109,4 +109,8 @@
 |     103     |      Panca Ragil     |    Opydipoy    |   <img src="./Photos/opydipoy.png" width="100" />   |    opydipoy.py    |   <img src="./Pattern_ScreenShots/opydipoy.jpg" width="100" />   |        INSPITECH - Inspirational Technology        |    pancaragilp33@gmail.com    |
 |104	     |Hasti Suatria	|HastiSutaria	|<img src="./Photos/HastiSutaria.jpg" width="100" />                          |HastiSutaria.c                    |<img src="./Pattern_ScreenShots/HastiSutaria.png" width="100" />                   |Adani Institute Of Infrastructure, Ahmedabad                                      |hastisutaria.ict19@gmail.com |
 
+
 |105           |Akshat kumar              |akshatkumar27         |<img src="./Photos/akshatkumar27.jpg" width="100" />                          |akshatkumar27.c                   |<img src="./Pattern_ScreenShots/akshatkumar27.png" width="100" />                   |jaypee university of information and technology                         |theyashgreat@gmail.com                  |
+
+|106         | Keder Nath Mallick |   keder-code-hash   |     <img src="./Photos/keder-code-hash.jpeg" width="100" />      |     keder-code-hash.py      |      <img src="./Pattern_ScreenShots/keder-code-hash.jpg" width="100" />      |  Techno International Newtown  |  kedernath.mallick.tint00@gmail.com  |
+
