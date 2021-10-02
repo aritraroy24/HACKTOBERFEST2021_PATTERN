@@ -95,7 +95,7 @@ class Pattern:
             print("")
 
 pattern = Pattern(15)
-patternInput = int(input("--*--Enter the Pattern-*-\n[1] - Diamond\n[2] - Heart\n[3] - Star\n[0] - QUIT\n>>> "))
+patternInput = int(input("--*--Enter the Pattern--*--\n[1] - Diamond\n[2] - Heart\n[3] - Star\n[0] - QUIT\n>>> "))
 
 if (patternInput <= 3):
 
