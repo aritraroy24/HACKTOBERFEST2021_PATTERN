@@ -66,4 +66,8 @@
 |59          |     Sarmistha Dash           |  Sarmi2709      |  <img src="./Photos/Sarmi2709.jpg" width="100" />     |   Sarmi2709.py    |  <img src="./Pattern_ScreenShots/Sarmi2709.jpg" width="100" />      |    Kalinga Institute of Industrial Technology,Odisha  |    1929171@kiit.ac.in  |
 |60         |         Manas Bajpai          |   Manas0916   |     <img src="./Photos/Manas0916.jpg" width="100" />      |     Manas0916.java      |      <img src="./Pattern_ScreenShots/Manas0916.png" width="100" />      |         Ambalika Institute of Manaagement and Technology,Lucknow        |     manas.bajpai16@gamil.com      |
 |61        |Xitiz Verma            |XitizVerma    |<img src="./Photos/XitizVerma.jpeg" width="100" />                       |XitizVerma.cpp              |<img src="./Pattern_ScreenShots/XitizVerma.jpg" width="100" />               |Dayananda Sagar College of Engineering, Bangalore                                    |xitizverma@gmail.com         |
+
 |62          | Rutvik Gondaliya |   rutvikgondaliya   |     <img src="./Photos/RutvikGondaliya.png" width="100" />      |     RutvikGondaliya.py      |      <img src="./Pattern_ScreenShots/RutvikGondaliya.png" width="100" />      |  Vishwakarma Government Engineering College, Gujarat, India  |  gondaliyarutvik281@gmail,com  |
+
+|63         |Shambashib Majumdar     |                 shambashib20| <img src="./Photos/shambashib20.jpg" width="100" />          |shambashib20.js                   |<img src="./Pattern_ScreenShots/shambashib20.png" width="100" />               |University of Engineering and Management Kolkata                          |shambashibmajumdar2000@gmail.com  |
+
