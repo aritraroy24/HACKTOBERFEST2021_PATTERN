@@ -1,7 +1,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github&style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 [![GitHub issues](https://img.shields.io/github/issues/aritraroy24/HACKTOBERFEST2021_PATTERN?logo=github)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/issues)
 [![GitHub stars](https://img.shields.io/github/stars/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/stargazers)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faritraroy24%2FHACKTOBERFEST2021_2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
 [![GitHub forks](https://img.shields.io/github/forks/aritraroy24/HACKTOBERFEST2021_PATTERN?style=social&logo=git)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/network/)
 ![Author](https://img.shields.io/badge/Owner-aritraroy24-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
@@ -37,7 +37,7 @@
 ----
 ------
 <p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
- 
+
 *	```No Missing Details```
 *	```Different Pattern or Same Pattern in Different Language```
 *	[```Follow @aritraroy24```](https://github.com/aritraroy24/)
@@ -53,7 +53,7 @@
 🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
 ```
 
-### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
+### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request.
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2021
@@ -92,7 +92,7 @@
 ###### ⚡  Once you enter the git `checkout` command, you will receive the following output:`Switched to branch '<YOUR-USERNAME>' `
 ###### ⚡  At this point, you can now modify existing files or add new files to the project on your own branch.
 ###### ⚡  Make sure you have read the [CONTRIBUTING.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/blob/master/CONTRIBUTING.md) before you start contributing such that you make remarkable and easily acceptable PRs.
-###### ⚡  Make Changes Locally. 
+###### ⚡  Make Changes Locally.
 ###### ⚡  Once you have modified existing files or added new files to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made : `git add -A ` or ` git add . `
 ###### ⚡  Next, we’ll want to record the changes that we made to the repository with the git commit command.
 ###### ⚡  The commit message is an important aspect of your code contribution; It helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the `CONTRIBUTING.md `.
