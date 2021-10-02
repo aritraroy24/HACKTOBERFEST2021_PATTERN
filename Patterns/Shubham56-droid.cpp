@@ -1,29 +1,55 @@
-#include <iostream>
-using namespace std;
+/**
+ * C program to print heart star pattern 
+ */
+
+#include <stdio.h>
 
 int main()
 {
-    int rows;
+    int i, j, n;
 
-    cout << "Enter number of rows: ";
-    cin >> rows;
+    printf("Enter value of n : ");
+    scanf("%d", &n);
 
-    for(int i = rows; i >= 1; --i)
+    for(i=n/2; i<=n; i+=2)
     {
-        for(int space = 0; space < rows-i; ++space)
-            cout << "  ";
+        for(j=1; j<n-i; j+=2)
+        {
+            printf(" ");
+        }
 
-        for(int j = i; j <= 2*i-1; ++j)
-            cout << "* ";
+        for(j=1; j<=i; j++)
+        {
+            printf("*");
+        }
 
-        for(int j = 0; j < i-1; ++j)
-            cout << "* ";
+        for(j=1; j<=n-i; j++)
+        {
+            printf(" ");
+        }
 
-        cout << endl;
+        for(j=1; j<=i; j++)
+        {
+            printf("*");
+        }
+
+        printf("\n");
+    }
+
+    for(i=n; i>=1; i--)
+    {
+        for(j=i; j<n; j++)
+        {
+            printf(" ");
+        }
+
+        for(j=1; j<=(i*2)-1; j++)
+        {
+            printf("*");
+        }
+
+        printf("\n");
     }
 
     return 0;
 }
-
-// contributed by shubham bawankar
-//  downword star pattern
