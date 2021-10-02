@@ -40,6 +40,9 @@
 |33          |Anthony Rafael       |Anthony-Citizen          |<img src="./Photos/Anthony-Citizen.jpg" width="100" />                          |Anthony-Citizen.c                    |<img src="./Pattern_ScreenShots/Anthony-Citizen.JPG" width="100" />                   |Universitas Multimedia Nusantara - Indonesia                                      |anthony.rafael@student.umn.ac.id    |
 |34          |Stevin Prince       |kemosabe2911          |<img src="./Photos/Stevin Prince.jpg" width="100" />                          |Kemosabe2911.py                    |<img src="./Pattern_ScreenShots/Kemosabe2911_Pattern.png" width="100" />                   |Mar Athanasius College of Engineering, Kothamanagalam                                      |stevinprince@gmail.com    |
 |     35     |      Nandita Manchikanti      |    nandita-manchikanti    |   <img src="./Photos/nandita-manchikanti.jpg" width="100" />   |    nandita-manchikanti.c    |   <img src="./Pattern_ScreenShots/nandita-manchikanti.png" width="100" />   |        IIITDM Chennai - India        |    nandita.mvs10@gmail.com    |
-|     36     |      Panca Ragil     |    Opydipoy    |   <img src="./Photos/opydipoy.png" width="100" />   |    opydipoy.py    |   <img src="./Pattern_ScreenShots/opydipoy.jpg" width="100" />   |        INSPITECH - Inspirational Technology        |    pancaragilp33@gmail.com    |
 
+
+|36          |Chathushka Rodrigo      |ChathushkaRodrigo        |<img src="./Photos/ChathushkaRodrigo.jpg" width="100" />                          |ChathushkaRodrigo.java                    |<img src="./Pattern_ScreenShots/ChathushkaRodrigo.png" width="100" />                   |Curtin S.L.I.I.T Sri Lanka                                     |chathushkarodrigo@gmail.com    |
+
+|     37  |      Panca Ragil     |    Opydipoy    |   <img src="./Photos/opydipoy.png" width="100" />   |    opydipoy.py    |   <img src="./Pattern_ScreenShots/opydipoy.jpg" width="100" />   |        INSPITECH - Inspirational Technology        |    pancaragilp33@gmail.com    |
 
