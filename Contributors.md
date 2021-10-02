@@ -126,4 +126,4 @@
 |119          |Shalini Agrawal       |shaliniagrawal2512         |<img src="./Photos/shanuagrawal2512.jpg" width="100" />                          |shaliniagrawal2512.cpp                    |<img src="./Pattern_ScreenShots/shliniagrawal2512.JPG" width="100" />                   |IIIT Allahabad, UP                                     |shanuagrawal133@gmail.com    |
 |120          |Adrija Roy       |adrija24         |<img src="./Photos/adrija24.jpeg" width="100" />                          |adrijaroy24.c                    |<img src="./Pattern_ScreenShots/adrijaroy24.PNG" width="100" />                   |BSTM, West Bengal                                     |24adrijaroy@gmail.com    |
 |121         |Vinayak                 |Paimon-food          | <img src="./Photos/Paimon-food.jpg" width="100"/>                         |Paimon-food.cpp                
-|<img src="./Pattern_ScreenShots/Paimon-food.png" width="100" />                  |VIT                                                  |vinayakkumar@gmail.com
+|<img src="./Pattern_ScreenShots/Paimon-food.png" width="100" /> |VIT                 |vinayakkumar@gmail.com
