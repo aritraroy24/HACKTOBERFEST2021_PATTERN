@@ -6,12 +6,25 @@ Created on Sat Oct  2 10:00:00 2021
 """
 
 class Pattern:
+    """
+    This class prints different patterns based on number of rows
+
+    Parameters:
+    rows (int): number of rows for a pattern
+
+    Returns:
+    None: None
+    It prints star pattern as string
+    """
 
     def __init__(self, rows):
         self.rows = rows
 
 
     def hollowDiamond(self):
+        """
+        This function takes rows as input and prints Hollow-Diamond pattern
+        """
 
         for i in range(self.rows):
 
@@ -32,6 +45,9 @@ class Pattern:
 
 
     def cosmicStar(self):
+        """
+        This function takes rows as input and prints Star pattern
+        """
 
         columnDigit = 2*(self.rows)-5
 
@@ -45,6 +61,9 @@ class Pattern:
 
 
     def diamondHeart(self):
+        """
+        This function takes rows as input and prints Heart pattern
+        """
 
         for i in range(self.rows//2):
 
