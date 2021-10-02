@@ -1,0 +1,15 @@
+#Kite pattern
+#Enter integer input
+a=int(input())
+for i in range(1,a+1):
+ print("+"*(a-i), end="")
+ print("$"*2*i,end="")
+ print("+"*(a-i))
+for i in range(1,a+1):
+ print("+"*i,end="")
+ print("$"2(a-i),end="")
+ print("+"*i)
+for i in range(1,a//2):
+ print("+"*(a-i),end="")
+ print("$"*2*i,end="")
+ print("+"*(a-i))
