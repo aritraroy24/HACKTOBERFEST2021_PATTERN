@@ -1,0 +1,47 @@
+// java implementation to print the given
+// pattern recursively
+import java.io.*;
+
+class pattern
+{
+	// function to print the 'n-th' row
+	// of the pattern recursively
+	static void printPatternRowRecur(int n)
+	{
+		// base condition
+		if (n < 1)
+			return;
+			
+		// print the remnaining stars
+		// of the n-th row recursively
+		System.out.print( "* ");
+		printPatternRowRecur(n - 1);
+	}
+	
+	static void printPatternRecur(int n)
+	{
+		// base condition
+		if (n < 1)
+			return;
+		
+		// print the stars of the n-th row
+		printPatternRowRecur(n);
+		
+		// move to next line
+		System.out.println ();
+		
+		// print stars of the
+		// remaining rows recursively
+		printPatternRecur(n - 1);
+		
+	}
+
+	// Driver program to test above
+	public static void main (String[] args)
+	{
+		int n = 5;
+		printPatternRecur(n);
+		
+	}
+}
+//This code is contributed by vt_m
