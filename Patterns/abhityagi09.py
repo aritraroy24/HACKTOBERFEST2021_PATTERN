@@ -1,6 +1,6 @@
 rows = 5
 
-k=2*rows=2
+k=2*rows
 
 for i in range(rows, -1, -1):
 
