@@ -1,0 +1,28 @@
+/* In this programme the user have to enter the number of rows for the diamond dimenson to print the dimond patter as he wishes*/
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int n, x, i, j;
+cout << "Enter number of rows: "; //user have to enter the number of rows here
+cin >> n;
+for(i = 0; i <= n; i++)
+{
+for(x = n; x > i; x--)
+cout << " ";
+for(j=0; j<i; j++)
+cout << "* ";
+cout << "\n";
+}
+for(i = 1; i < n; i++)
+{
+for(x = 0; x < i; x++)
+cout << " ";
+for(j = n; j > i; j--)
+cout << "* ";
+// After each row ending the line
+cout << "\n";
+}
+return 0;
+}
