@@ -1,0 +1,7 @@
+from tkinter import *
+cb=Tk()
+Var1=IntVar()
+Checkbutton(cb,text="VB",variable=Var1).grid(row=0,sticky=W)
+Var2=IntVar()
+Checkbutton(cb,text="LINUX",variable=Var2).grid(row=1,sticky=W)
+mainloop()
