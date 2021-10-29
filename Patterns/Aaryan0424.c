@@ -2,7 +2,7 @@
 int main()
 {
     int n,m;
-     n=9;m=9;
+     n=10;m=10;
    for(int i=1;i<=n;i++)
    {
        for(int j=1;j<=m-1;j++)
